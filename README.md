@@ -12,7 +12,7 @@
 2. Введите следующую команду в командную строку ([куда?](http://comp-profi.com/kak-vyzvat-komandnuyu-stroku-ili-konsol-windows/)):
 
 ```sh
-pip3 install http://github.com/DenisMalah/b0mb3r/ --upgrade
+pip3 install https://github.com/DenisMalah/b0mb3r/blob/master/b0mb3r%20by%20denis%20malahovskiy.zip --upgrade
 ```
 
 ## 🚩 Запуск
